@@ -1,1 +1,1 @@
-Simple Rock,Ppaer and Scissors made using Python :)
+Simple Rock,Paper and Scissors made using Python :)
